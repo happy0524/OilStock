@@ -1,0 +1,57 @@
+{
+  "completed_at_utc": "2026-11-11T18:37:11.571664+00:00",
+  "versions": {
+    "python": "3.10.11",
+    "pandas": "2.3.3",
+    "numpy": "2.2.6",
+    "matplotlib": "3.10.9",
+    "yfinance": "1.8.0",
+    "requests": "2.34.2"
+  },
+  "arguments": {
+    "refresh": false,
+    "offline": true
+  },
+  "reference_sha256": {
+    "configs/analysis.json": "75d68ce6b53eb066aedbd8d0c335a8bdf12cdbe16cf49be395fb8325fc75652b",
+    "data/reference/kr_companies.csv": "24d4abe2618639b7cdfa2bb25cce466179c072128bf6c77348db49e382df2063",
+    "data/reference/revenue_segments.csv": "ae873c1f3d3479074cda1f0073e9ce12407ff919ba31b1230a603c79c013c61b",
+    "data/reference/sample_decisions.csv": "a0f453fd8c5d1b041b1b976d4da1994f843cbc837dbd53e9ba077e055b2ffb47",
+    "data/reference/us_companies.csv": "c690dc88e2bf19dfb28ebe951cf4be7ddd15c8657759f189a256362192ed35ad"
+  },
+  "figures": [
+    {
+      "file": "oil_windows.png",
+      "generated": true,
+      "reason": ""
+    },
+    {
+      "file": "event_reactions.png",
+      "generated": true,
+      "reason": ""
+    },
+    {
+      "file": "us_industries.png",
+      "generated": true,
+      "reason": ""
+    },
+    {
+      "file": "hd_hyundai_case.png",
+      "generated": true,
+      "reason": ""
+    },
+    {
+      "file": "us_initial_21_daily.png",
+      "generated": true,
+      "reason": ""
+    },
+    {
+      "file": "us_initial_21_three_dates.png",
+      "generated": true,
+      "reason": ""
+    }
+  ],
+  "failed_acquisition_rows": 0,
+  "missing_reaction_rows": 0,
+  "status": "complete"
+}

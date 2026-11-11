@@ -1,0 +1,14 @@
+{
+  "event_date": "2026-02-28",
+  "baseline_date": "2026-02-27",
+  "reaction_dates": {"US": "2026-03-02", "KR": "2026-03-03"},
+  "stock_auto_adjust": false,
+  "oil_auto_adjust": true,
+  "windows": {
+    "oil_long": {"requested_start": "2026-02-01", "end_exclusive": "2026-04-01"},
+    "oil_short": {"requested_start": "2026-02-24", "end_exclusive": "2026-03-16"},
+    "us_three_dates": {"requested_start": "2026-02-25", "end_exclusive": "2026-03-15"},
+    "stock_daily": {"requested_start": "2026-02-01", "end_exclusive": "2026-04-02"}
+  },
+  "three_dates": ["2026-02-27", "2026-03-02", "2026-03-10"]
+}

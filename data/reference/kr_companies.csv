@@ -1,0 +1,14 @@
+﻿ticker,code,company,country,market,sub_industry,include_main,selection,verification_url,verification_status
+010950.KS,010950,S-Oil,KR,KOSPI,provided_oil_related_search,True,provided_followup_13,https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt,verified_KIND_current
+024060.KQ,024060,흥구석유,KR,KOSDAQ,provided_oil_related_search,True,provided_followup_13,https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=kosdaqMkt,verified_KIND_current
+000440.KQ,000440,중앙에너비스,KR,KOSDAQ,provided_oil_related_search,True,provided_followup_13,https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=kosdaqMkt,verified_KIND_current
+014530.KS,014530,극동유화,KR,KOSPI,provided_oil_related_search,True,provided_followup_13,https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt,verified_KIND_current
+002420.KS,002420,세기상사,KR,KOSPI,provided_oil_related_search,True,provided_followup_13,https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt,verified_code_market_current_name_differs
+128820.KS,128820,대성산업,KR,KOSPI,provided_oil_related_search,True,provided_followup_13,https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt,verified_KIND_current
+038620.KQ,038620,위즈코프,KR,KOSDAQ,provided_oil_related_search,True,provided_followup_13,https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=kosdaqMkt,verified_KIND_current
+012700.KQ,012700,리드코프,KR,KOSDAQ,provided_oil_related_search,True,provided_followup_13,https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=kosdaqMkt,verified_KIND_current
+078930.KS,078930,GS,KR,KOSPI,provided_oil_related_search,True,provided_followup_13,https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt,verified_KIND_current
+024800.KQ,024800,유성티엔에스,KR,KOSDAQ,provided_oil_related_search,True,provided_followup_13,https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=kosdaqMkt,verified_KIND_current
+096770.KS,096770,SK이노베이션,KR,KOSPI,provided_oil_related_search,True,provided_followup_13,https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt,verified_KIND_current
+025860.KS,025860,남해화학,KR,KOSPI,provided_oil_related_search,True,provided_followup_13,https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt,verified_KIND_current
+267250.KS,267250,HD현대,KR,KOSPI,provided_oil_related_search,True,provided_followup_13,https://kind.krx.co.kr/corpgeneral/corpList.do?method=download&marketType=stockMkt,verified_KIND_current

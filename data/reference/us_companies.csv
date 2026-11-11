@@ -1,0 +1,22 @@
+﻿ticker,company,country,market,sub_industry,include_main,selection,classification_source
+XOM,ExxonMobil,US,US,Integrated Oil & Gas,True,provided_fixed_21,user_provided_historical_label
+CVX,Chevron Corporation,US,US,Integrated Oil & Gas,True,provided_fixed_21,user_provided_historical_label
+COP,ConocoPhillips,US,US,Oil & Gas Exploration & Production,True,provided_fixed_21,user_provided_historical_label
+WMB,Williams Companies,US,US,Oil & Gas Storage & Transportation,True,provided_fixed_21,user_provided_historical_label
+SLB,Schlumberger,US,US,Oil & Gas Equipment & Services,True,provided_fixed_21,user_provided_historical_label
+KMI,Kinder Morgan,US,US,Oil & Gas Storage & Transportation,True,provided_fixed_21,user_provided_historical_label
+VLO,Valero Energy,US,US,Oil & Gas Refining & Marketing,True,provided_fixed_21,user_provided_historical_label
+MPC,Marathon Petroleum,US,US,Oil & Gas Refining & Marketing,True,provided_fixed_21,user_provided_historical_label
+EOG,EOG Resources,US,US,Oil & Gas Exploration & Production,True,provided_fixed_21,user_provided_historical_label
+PSX,Phillips 66,US,US,Oil & Gas Refining & Marketing,True,provided_fixed_21,user_provided_historical_label
+BKR,Baker Hughes,US,US,Oil & Gas Equipment & Services,True,provided_fixed_21,user_provided_historical_label
+TRGP,Targa Resources,US,US,Oil & Gas Storage & Transportation,True,provided_fixed_21,user_provided_historical_label
+OKE,Oneok,US,US,Oil & Gas Storage & Transportation,True,provided_fixed_21,user_provided_historical_label
+OXY,Occidental Petroleum,US,US,Oil & Gas Exploration & Production,True,provided_fixed_21,user_provided_historical_label
+FANG,Diamondback Energy,US,US,Oil & Gas Exploration & Production,True,provided_fixed_21,user_provided_historical_label
+DVN,Devon Energy,US,US,Oil & Gas Exploration & Production,True,provided_fixed_21,user_provided_historical_label
+EQT,EQT Corporation,US,US,Oil & Gas Exploration & Production,True,provided_fixed_21,user_provided_historical_label
+HAL,Halliburton,US,US,Oil & Gas Equipment & Services,True,provided_fixed_21,user_provided_historical_label
+TPL,Texas Pacific Land Corporation,US,US,Oil & Gas Exploration & Production,False,provided_fixed_21,user_provided_historical_label
+EXE,Expand Energy,US,US,Oil & Gas Exploration & Production,True,provided_fixed_21,user_provided_historical_label
+APA,APA Corporation,US,US,Oil & Gas Exploration & Production,True,provided_fixed_21,user_provided_historical_label

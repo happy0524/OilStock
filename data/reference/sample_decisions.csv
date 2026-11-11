@@ -1,0 +1,6 @@
+﻿ticker,stage,decision,reason,source
+TPL,after_EDA_main_comparison,exclude_main_keep_initial,Post-hoc business-model comparability decision; land/royalty/water differs from direct production/refining; not based on return sign,user_explanation_and_SEC_2025_10K
+COP,revenue_input,not_provided,Reason not provided; retain price sample,user_brief
+APA,revenue_input,not_provided,Reason not provided; retain price sample,user_brief
+267250.KS,revenue_input,preserve_original_99.6,Other 0.38 appears only in user description of absent capture; not appended,user_transcription
+KR_ALL_13,followup_selection,provided_list_not_exhaustive,Toss oil-related search; distinct from initial KOSPI keyword screen,user_brief

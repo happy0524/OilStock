@@ -1,0 +1,3 @@
+window,requested_start,baseline_date,rule
+us_daily,2026-02-01,2026-02-02,first_observed_row_in_market_window_not_event_baseline
+kr_daily,2026-02-01,2026-02-02,first_observed_row_in_market_window_not_event_baseline
